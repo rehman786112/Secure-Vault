@@ -1,6 +1,6 @@
 {
   "version": "17.1.0",
-  "name": "SecureVault v16.1.0 - Major Update",
+  "name": "SecureVault v17.1.0 - Major Update",
   "release_date": "2026-06-15",
   "download_url": "https://github.com/your-username/securevault/releases/download/v16.1.0/SecureVault.exe",
   "release_notes": "https://github.com/your-username/securevault/releases/tag/v16.1.0",
@@ -14,7 +14,7 @@
     "🐛 Fixed tray icon disappearance",
     "🐛 Fixed password verification timeout"
   ],
-  "min_required_version": "16.0.0",
+  "min_required_version": "17.0.0",
   "file_size": "45.2 MB",
   "checksum_sha256": "abc123def456789...",
   "mandatory": false
