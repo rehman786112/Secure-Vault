@@ -2,8 +2,8 @@
   "version": "17.1.0",
   "name": "SecureVault v17.1.0 - Major Update",
   "release_date": "2026-06-15",
-  "download_url": "https://github.com/your-username/securevault/releases/download/v16.1.0/SecureVault.exe",
-  "release_notes": "https://github.com/your-username/securevault/releases/tag/v16.1.0",
+  "download_url": "https://github.com/rehman786112/Secure-Vault/releases/download/v16.1.0/SecureVault_Recovery.1.exe",
+  "release_notes": "https://github.com/rehman786112/Secure-Vault/commits/v16.1.0",
   "changelog": [
     "🎨 Completely redesigned UI with better contrast",
     "🔔 Smart notification system for folder access",
